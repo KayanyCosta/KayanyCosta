@@ -59,13 +59,7 @@
 
 ---
 
-# 🌙 “Meu coração sempre pertenceu a você.”  /- Akaza 
-
-<div align="center">
-
-<img height="180em" src="https://i.pinimg.com/1200x/ee/b4/16/eeb416dae5d138ff305085db2d2782f0.jpg"/>
-
-</div>
+# 🌙 “Um bom café para madrugar codando”  
 
 ---
 
